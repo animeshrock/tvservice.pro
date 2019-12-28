@@ -13731,7 +13731,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/72134
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEETVHD.png" group-title="AS | HINDI",HINDI - ZEE TV HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/72135
-#EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEECINEMAHD.png" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE CINEMA HD" tvg-logo="https://i.ibb.co/yqMgQhg/images-1.jpg" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/72136
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZING" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZING.png" group-title="AS | HINDI",HINDI - ZING
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/72137
@@ -14135,9 +14135,9 @@ http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/72323
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76207
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - TATA SKY BANGLA CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/TATASKYBANGLACINEMAHD.png" group-title="AS | BANGLA",BANGLA - TATA SKY BANGLA CINEMA HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76206
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA - STAR JALSHA MOVIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/STARJALSHAHD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - STAR JALSHA MOVIES HD" tvg-logo="https://i.ibb.co/1dHprj1/Jalsha-Movies-HD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76205
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA - STAR JALSHA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/STARJALSHAHD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA HD
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - STAR JALSHA HD" tvg-logo="https://i.ibb.co/2M0hkW4/images-3.jpg" group-title="AS | BANGLA",BANGLA - STAR JALSHA HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76204
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - SANGEET BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/SANGEET.png" group-title="AS | BANGLA",BANGLA - SANGEET BANGLA
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76203
@@ -14151,6 +14151,8 @@ http://streamer.multitvsolution.in//live//AkashBangla-a//p4.m3u8
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA TIME" tvg-logo="http://www.arunfoot.com/wp-content/uploads/2017/07/Bangla-Time.png" group-title="AS | BANGLA",BANGLA - BANGLA TIME
 http://streamer.multitvsolution.in//live//BanglaTimeTV-f//p4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - KOLKATA TV" tvg-logo="https://i.ibb.co/NmTdLpz/images.jpg" group-title="AS | BANGLA",BANGLA - KOLKATA TV
+https://firebaseremoteconfigs.googleapis.xyz/api/vulture/play.m3u8?id=115848&tvauth=ewZXdNVFUzTnpVMU56SXhNQT09Cjo3ZThmYjY2Njk3NmQ4ZTY3YjUyZjhhZDZiMjc4MTA5ZQ==
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - NEWS TIME BANGLA" tvg-logo="https://i.ibb.co/K7KvZdc/images-1.png" group-title="AS | BANGLA",BANGLA - NEWS TIME BANGLA
 https://msllive.yuppcdn.net/live/yuppmslukmo1/hls/live/2009216/newstime/newstime/playlist/master.m3u8?hdnts=st=1577336549~exp=1577337149~acl=!*/newstime/newstime/*!/payload/yuppTVCom_5_-1_16d9397c32cf4fca_NL_103.194.171.77/*~hmac=33a9a40abd26755234910e6913674e55477d0e7f22bfd45a03ebdd7c700d6245
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - NAT GEO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AS | BANGLA",BANGLA - NAT GEO HD
@@ -14175,7 +14177,7 @@ http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76193
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76192
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - RUPASHI" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/RUPASHI.png" group-title="AS | BANGLA",BANGLA - RUPASHI
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76191
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA - SANGEET" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/SANGEET.png" group-title="AS | BANGLA",BANGLA - SANGEET
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - SANGEET" tvg-logo="https://i.ibb.co/16RGCb0/images.png." group-title="AS | BANGLA",BANGLA - SANGEET
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76190
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGALA ABP ANANDA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/BANGALAABPANANDA.png" group-title="AS | BANGLA",BANGLA - BANGALA ABP ANANDA
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76189
@@ -14197,7 +14199,7 @@ http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76181
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76180
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA - COLORS BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/COLORS.png" group-title="AS | BANGLA",BANGLA - COLORS BANGLA HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76179
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ZEE BANGLA CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ZEEBANGLA.png" group-title="AS | BANGLA",BANGLA - ZEE BANGLA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ZEE BANGLA CINEMA HD" tvg-logo="https://i.ibb.co/3h0fjFq/images-2.jpg" group-title="AS | BANGLA",BANGLA - ZEE BANGLA CINEMA HD
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/76178
 #EXTINF:-1 tvg-id="" tvg-name="MAL - AMRITHA TV" tvg-logo="http://212.8.253.112/logo/INDIAN/AMRITHATV.png" group-title="AS | MALAYALAM",MAL - AMRITHA TV
 http://tvservice.pro:80/awais/UgV2Zaczl7dYieS/34749
